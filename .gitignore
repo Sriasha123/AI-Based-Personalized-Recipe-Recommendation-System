@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+backend/data/raw/*.csv
+Final/recipe-recommendation-system/backend/data/raw/*.csv
